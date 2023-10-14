@@ -1,0 +1,1 @@
+Project responsible for read a dataset in .csv and create data structures such as hashtable and prefix tree for search data about the players
